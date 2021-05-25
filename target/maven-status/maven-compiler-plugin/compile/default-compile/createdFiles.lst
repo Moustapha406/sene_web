@@ -1,0 +1,12 @@
+com\sene\servlet\CommentaireServlet.class
+com\sene\entities\Article.class
+com\sene\servlet\HomeServlet.class
+com\sene\repository\jdbc\ArticleJdbcRepository.class
+com\sene\repository\jdbc\SingletonConnection.class
+com\sene\repository\jdbc\UserJdbcRepository.class
+com\sene\entities\Commentaire.class
+com\sene\servlet\UserServlet.class
+com\sene\servlet\ArticleServlet.class
+com\sene\entities\User.class
+com\sene\repository\ArticleRepository.class
+com\sene\repository\UserRepository.class
